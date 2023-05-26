@@ -8,6 +8,6 @@ setup(
     description='Description of your package',
     packages=find_packages(),
     install_requires=[
-        'dependency1',        
+        'manim',        
     ],
 )
